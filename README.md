@@ -2,6 +2,6 @@
 
 
 - 🔭 I’m currently working on improving 2 solo projects I did for the bootcamp
-- 🌱 I’m currently learning Python by redoing Ruby challenges in Python
+- 🌱 I’m currently learning Python and algoritms by doing coding challenges and following a course in algorithms
 
 - ⚡ Fun fact: I like participating in game jams both as an illustrator and a programmer (❁´◡`❁)

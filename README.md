@@ -1,8 +1,8 @@
 ### Hello! I'm Paulyn, a junior web developer~ 😎
 
 
-- 🔭 I’m currently working on the development of my own web app portfolio
-- 🌱 I’m doing small projects to improve my skills related to frontend animations and backend algorithms
+- 🔭 I’m currently working on a web app that will serve as my portfolio
+- 🌱 I’m doing small projects to improve my skills related to frontend animations and reviewing backend algorithms
 - 📖 I'm currently learning React and relearning C#
 
 - ⚡ Fun fact: I'm part of a game dev team, called The Useless Team. We participate in game jams and I like being both an illustrator and a programmer (❁´◡`❁)

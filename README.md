@@ -1,16 +1,17 @@
 ### Hello! I'm Paulyn, a junior web developer~ 😎
 
 
-- 🔭 I’m currently working on improving 2 solo projects I did for the Le Wagon web dev bootcamp
-- 🌱 I’m currently learning Python and algoritms by doing coding challenges and following a course in algorithms
+- 🔭 I’m currently working on the development of my own web app portfolio
+- 🌱 I’m currently working to improve my skills related to frontend animations and backend algorithms
+- 📖 I'm currently learning React and relearning C#
 
 - ⚡ Fun fact: I'm part of a game dev team, called The Useless Team. We participate in game jams and I like being both an illustrator and a programmer (❁´◡`❁)
 
 ### Projects ⭐
-- [MemoMio](https://memomio.herokuapp.com/) : a mobile web app for storing memories and adding emotional tags
+- [MemoMio](https://memomio.herokuapp.com/) : a mobile web app for storing memories and adding emotional tags with parallax animation
 - [Watch List](https://paulynswatchlist.herokuapp.com/) : a small Staw Wars themed web app to keep lists of films
 - [NewBnB](https://newbnb.herokuapp.com/) : an AirBnB clone developed as a first team project at Le Wagon
-- [Faithless Land](https://ldjam.com/events/ludum-dare/47/faithless-land) : a deck building game we developed for Ludum Dare
+- [Faithless Land](https://ldjam.com/events/ludum-dare/47/faithless-land) : a deck building game developed for Ludum Dare
 
 ### Stack 📟
 <p align="left">

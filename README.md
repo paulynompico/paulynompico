@@ -9,7 +9,7 @@
 
 ### Projects ⭐
 - [MemoMio](https://memomio.herokuapp.com/) : a mobile web app for storing memories and adding emotional tags with parallax animation
-- [Watch List](https://paulynswatchlist.herokuapp.com/) : a small Staw Wars themed web app to keep lists of films
+- [Watch List](https://paulynswatchlist.herokuapp.com/) : a small Star Wars themed web app to keep lists of films
 - [NewBnB](https://newbnb.herokuapp.com/) : an AirBnB clone developed as a first team project at Le Wagon
 - [Faithless Land](https://ldjam.com/events/ludum-dare/47/faithless-land) : a deck building game developed for Ludum Dare
 

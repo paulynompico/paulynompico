@@ -3,7 +3,6 @@
 
 - 🔭 I’m doing small personal projects to improve my skills
 - 🌱 I’m regularly doing coding challenges in different programming languages
-- 📖 I'm currently learning React, Redux, etc.
 ###
 - ⚡ Fun fact: I'm part of a game dev team, called The Useless Team. We participate in game jams and I like being both an illustrator and a programmer (❁´◡`❁)
 

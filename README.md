@@ -2,7 +2,8 @@
 
 
 - 🔭 I’m currently working on a solo passion project -- a video game
-- 🌱 I regularly do coding challenges in different programming languages, though I'm mostly working with Ruby, JS, and C# as of the moment
+- 🌱 I regularly do coding challenges in different programming languages
+- 💻 I'm mostly working with Ruby, JS, and C# as of the moment
 - 🎨 I use Blender for 3D modeling, Krita for illustrations, and Aseprite for pixel art assets (on the go, I also use Procreate) 
 ###
 - ⚡ Fun fact: I'm part of a game dev team, called The Useless Team (❁´◡`❁)

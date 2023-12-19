@@ -1,7 +1,7 @@
 ### Hello! I'm Paulyn, a web developer and artist~ 😎
 
 
-- 🔭 I’m currently working on a passion project with my partner -- a video game
+- 🔭 I’m currently working on a passion project -- a mystery video game
 - 🌱 I regularly do coding challenges in different programming languages
 - 💻 As of the moment, I'm mostly working with Ruby, JS, and C#
 - 🎨 I use Blender for 3D modeling, Krita for illustrations, and Aseprite for pixel art (on the go, I also use Procreate) 

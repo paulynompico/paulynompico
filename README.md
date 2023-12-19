@@ -1,12 +1,12 @@
 ### Hello! I'm Paulyn, a web developer and artist~ 😎
 
 
-- 🔭 I’m currently working on a solo passion project -- a video game
+- 🔭 I’m currently working on a passion project with my partner -- a video game
 - 🌱 I regularly do coding challenges in different programming languages
-- 💻 I'm mostly working with Ruby, JS, and C# as of the moment
-- 🎨 I use Blender for 3D modeling, Krita for illustrations, and Aseprite for pixel art assets (on the go, I also use Procreate) 
+- 💻 As of the moment, I'm mostly working with Ruby, JS, and C#
+- 🎨 I use Blender for 3D modeling, Krita for illustrations, and Aseprite for pixel art (on the go, I also use Procreate) 
 ###
-- ⚡ Fun fact: I'm part of a game dev team, called The Useless Team (❁´◡`❁)
+- ⚡ Fun fact: I'm part of a game dev team with my 3 friends, called The Useless Team (❁´◡`❁)
 
 ### Public Projects ⭐
 - [MemoMio](https://memomio.herokuapp.com/) : a mobile web app for storing memories and adding emotional tags with parallax animation

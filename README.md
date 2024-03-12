@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a passion project -- a mystery video game
-- 🌱 I regularly do coding challenges in different programming languages
+- 🌱 I regularly do coding challenges in different languages and partake in multiple web dev projects
 - 💻 As of the moment, I'm mostly working with Ruby, JS, and C#
 - 🎨 I use Blender for 3D modeling, Krita for illustrations, and Aseprite for pixel art (on the go, I also use Procreate) 
 ###

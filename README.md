@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a passion project -- a mystery video game
 - 🌱 I regularly do coding challenges in different languages and partake in multiple web dev projects
-- 💻 As of the moment, I'm mostly working with Ruby and JS
+- 💻 As of the moment, I'm mostly working with Rails + React
 - 🎨 I use Blender for 3D modeling, Krita for illustrations, and Aseprite for pixel art (on the go, I also use Procreate) 
 ###
 - ⚡ Fun fact: I'm part of a game dev team with my 3 friends, called The Useless Team (❁´◡`❁)

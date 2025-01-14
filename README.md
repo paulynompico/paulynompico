@@ -6,7 +6,7 @@
 - 💻 As of the moment, I'm mostly working with Rails + React
 - 🎨 I use Blender for 3D modeling, Krita for illustrations, and Aseprite for pixel art (on the go, I also use Procreate) 
 ###
-- ⚡ Fun fact: I'm part of a game dev team with my 3 friends, called The Useless Team (❁´◡`❁)
+- ⚡ Fun fact: I sometimes join game jams with my 3 friends, called The Useless Team
 
 ### Public Projects ⭐
 - [MemoMio](https://memomio.herokuapp.com/) : a mobile web app for storing memories and adding emotional tags with parallax animation

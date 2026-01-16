@@ -1,18 +1,13 @@
 ### Hello! I'm Paulyn, a web developer and artist~ 😎
 
 
-- 🔭 I’m currently working on a passion project -- a mystery video game
+- 🔭 Mostly a backend developer (despite being an illustrator)
 - 🌱 I regularly do coding challenges in different languages and partake in multiple web dev projects
 - 💻 As of the moment, I'm mostly working with Rails + React
 - 🎨 I use Blender for 3D modeling, Krita for illustrations, and Aseprite for pixel art (on the go, I also use Procreate) 
 ###
 - ⚡ Fun fact: I sometimes join game jams with my 3 friends, called The Useless Team
 
-### Public Projects ⭐
-- [MemoMio](https://memomio.herokuapp.com/) : a mobile web app for storing memories and adding emotional tags with parallax animation
-- [Watch List](https://paulynswatchlist.herokuapp.com/) : a small Star Wars themed web app to keep lists of films
-- [NewBnB](https://newbnb.herokuapp.com/) : an AirBnB clone developed as a first team project at Le Wagon
-- [Faithless Land](https://ldjam.com/events/ludum-dare/47/faithless-land) : a deck building game developed for Ludum Dare
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
